@@ -1,0 +1,20 @@
+{
+  "name": "Skip",
+  "short_name": "Skip",
+  "description": "Heute. Kein Chat. Du entscheidest.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111110",
+  "theme_color": "#111110",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "https://floaron.github.io/skip/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
